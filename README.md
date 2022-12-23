@@ -6,3 +6,14 @@
 
 
 By using this system, we can create a world best password with random sysmbols and random number. And we can make infinity no. of password. This system have a two choices , the first one is low level security password and the second one is high level security password............
+
+
+
+ _
+| |
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |
+                   |___/             by-payakan
